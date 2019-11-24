@@ -1,0 +1,11 @@
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\bin\Debug\netcoreapp3.0\EMPLOYEESAPP.exe
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\bin\Debug\netcoreapp3.0\EMPLOYEESAPP.deps.json
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\bin\Debug\netcoreapp3.0\EMPLOYEESAPP.runtimeconfig.json
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\bin\Debug\netcoreapp3.0\EMPLOYEESAPP.runtimeconfig.dev.json
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\bin\Debug\netcoreapp3.0\EMPLOYEESAPP.dll
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\bin\Debug\netcoreapp3.0\EMPLOYEESAPP.pdb
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\obj\Debug\netcoreapp3.0\EMPLOYEESAPP.csprojAssemblyReference.cache
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\obj\Debug\netcoreapp3.0\EMPLOYEESAPP.AssemblyInfoInputs.cache
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\obj\Debug\netcoreapp3.0\EMPLOYEESAPP.AssemblyInfo.cs
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\obj\Debug\netcoreapp3.0\EMPLOYEESAPP.dll
+C:\Users\mo\RiderProjects\EMPLOYEESAPP\EMPLOYEESAPP\obj\Debug\netcoreapp3.0\EMPLOYEESAPP.pdb
